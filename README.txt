@@ -1,1 +1,1 @@
-Web contents go in here
+Web contents go in this folder
